@@ -1,0 +1,1 @@
+# Gog-Galaxy-Full-Version
