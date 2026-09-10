@@ -239,3 +239,6 @@ This repository serves as the official landing page for GOG Galaxy. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of GOG Galaxy today!**
+
+---
+**Last updated:** 2026-09-10 12:11:08 UTC
