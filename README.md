@@ -241,4 +241,4 @@ This repository serves as the official landing page for GOG Galaxy. The software
 **Get the most recent version of GOG Galaxy today!**
 
 ---
-**Last updated:** 2026-10-20 05:51:09 UTC
+**Last updated:** 2026-10-20 11:21:11 UTC
